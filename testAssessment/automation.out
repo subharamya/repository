@@ -1,0 +1,11 @@
+2019-05-10 03:05:562 INFO  HomePage :153 - Click on the Search Button
+2019-05-10 03:05:761 INFO  HomePage :105 - Click on Checkin Date01/06/2019
+2019-05-10 03:05:980 INFO  HomePage :120 - Click on Checkout Date07/06/2019
+2019-05-10 03:05:217 INFO  WaitHelper :24 - waiting for element visibilityOf..
+2019-05-10 03:05:813 INFO  WaitHelper :27 - Element is Visible..
+2019-05-10 03:05:814 INFO  HomePage :145 - Set the value of Children
+2019-05-10 03:05:29 INFO  HomePage :153 - Click on the Search Button
+2019-05-10 03:05:694 INFO  WaitHelper :24 - waiting for element visibilityOf..
+2019-05-10 03:05:760 INFO  WaitHelper :27 - Element is Visible..
+2019-05-10 03:05:810 INFO  HomePage :160 - Web Element is displayed[[ChromeDriver: chrome on XP (94b9a016eebeba0436524d5715cd5043)] -> xpath: //*[@id="body-section"]/div[5]/div/div[2]/form/button[1]]
+2019-05-10 03:05:910 INFO  HomePage :168 - Click on the first search result
